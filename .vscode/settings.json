@@ -1,0 +1,14 @@
+{
+    "Lua.diagnostics.globals": [
+        "unpack",
+        "AuctionHouseFrame",
+        "StdUi",
+        "CreateFrame",
+        "GameFontHighlightSmall",
+        "PanelTemplates_SetNumTabs",
+        "tinsert",
+        "LibStub",
+        "GetAddOnMetadata",
+        "AuctionHouseFrameDisplayMode"
+    ]
+}
