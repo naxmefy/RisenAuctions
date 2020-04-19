@@ -22,3 +22,8 @@ Locales/enUS.lua
 Locales/deDE.lua
 
 Core.lua
+Options.lua
+
+Modules/RisenAuctionsAuctionHouseUI/Core.lua
+Modules/RisenAuctionsInventory/Core.lua
+Modules/RisenAuctionsUITabSpeedSellDisplayMode/Core.lua
